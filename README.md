@@ -31,7 +31,7 @@ Finally, we will create a visualization dashboard and a website with a battle si
 
 ## Dataset
 [Age of Sigmar Data](https://github.com/JonITTECH/AgeofSigmar/blob/main/AgeofSigmardata.xlsx))
-[Sigamr Modified](https://github.com/tu-usuario/tu-repositorio/ruta/al/dataset.xlsx)
+[Sigamr Modified](https://github.com/JonITTECH/AgeofSigmar/blob/main/sigmar_modified.xlsx)
 
 ## Links
 [Repository](https://github.com/JonITTECH)  
