@@ -30,7 +30,7 @@ Once we have identified the key features that predict success in combat and have
 Finally, we will create a visualization dashboard and a website with a battle simulation, allowing us to anticipate how two armies would fare against each other based on dice rolls and their respective characteristics.
 
 ## Dataset
-[Age of Sigmar Data](https://github.com/tu-usuario/tu-repositorio/ruta/al/dataset.xlsx)
+[Age of Sigmar Data](https://github.com/JonITTECH/AgeofSigmar/blob/main/AgeofSigmardata.xlsx))
 [Sigamr Modified](https://github.com/tu-usuario/tu-repositorio/ruta/al/dataset.xlsx)
 
 ## Links
