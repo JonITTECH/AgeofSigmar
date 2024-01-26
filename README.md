@@ -9,8 +9,6 @@ Project: Middle-term Irohack - Data Analytics Campus
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
@@ -30,12 +28,13 @@ Once we have identified the key features that predict success in combat and have
 Finally, we will create a visualization dashboard and a website with a battle simulation, allowing us to anticipate how two armies would fare against each other based on dice rolls and their respective characteristics.
 
 ## Dataset
-[Age of Sigmar Data](https://github.com/JonITTECH/AgeofSigmar/blob/main/AgeofSigmardata.xlsx))
-[Sigamr Modified](https://github.com/JonITTECH/AgeofSigmar/blob/main/sigmar_modified.xlsx)
+[Age of Sigmar Data](https://github.com/JonITTECH/AgeofSigmar/blob/main/AgeofSigmardata.xlsx)  
+[Sigmar Modified](https://github.com/JonITTECH/AgeofSigmar/blob/main/sigmar_modified.xlsx)
 
 ## Links
 [Repository](https://github.com/JonITTECH)  
 [Slides](https://www.canva.com/design/DAF67TN9u6k/F68TKmyyYRi-1WtshtId2g/edit?utm_content=DAF67TN9u6k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Tableau](https://public.tableau.com/app/profile/jonatan.aguilera.l.pez/viz/AgeofSigmar/MainDashboard?publish=yes)
 
 
 
